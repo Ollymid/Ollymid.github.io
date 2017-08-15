@@ -1,14 +1,13 @@
 ---
-title: Dreams
-subtitle: Website Design
+title:  The Replacement Morty Quiz
+subtitle: A Rick and Morty inspired trivia game powered by JavaScript!
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: 2017-05-26
 img: dreams.png
 thumbnail: dreams-thumbnail.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+alt: Rick and Morty Quiz Game
+project-date: May 2017
 category: Web Development
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 

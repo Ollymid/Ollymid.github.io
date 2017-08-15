@@ -35,6 +35,14 @@ a.active {
     outline: 0;
 }
 
+.profile-pic{
+  border-radius: 50%;
+  border: 2px solid #fff;
+  width: 200px;
+  height: 300px;
+  margin-bottom: 50px;
+}
+
 a {
     color: #{{ site.data.template.color.primary }};
 }
@@ -269,7 +277,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/img/header-bg.jpg');
+    background-image: url('{{ site.baseurl }}/img/mouse.jpg');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -324,6 +332,16 @@ header .intro-text .intro-heading {
     }
 }
 
+i.tech {
+  font-size: 6em;
+  margin: 10px;
+}
+
+div.skillz {
+  text-align: center;
+  margin-bottom: 25px;
+}
+
 section {
     padding: 100px 0;
 }
@@ -341,6 +359,14 @@ section h3.section-subheading {
     font-size: 16px;
     font-style: italic;
     font-weight: 400;
+}
+section h3.section-about-subheading {
+  margin-bottom: 25px;
+  text-transform: none;
+  font-family: {{ site.data.template.font.secondary }};
+  font-size: 16px;
+  font-style: italic;
+  font-weight: 400;
 }
 
 @media(min-width:768px) {

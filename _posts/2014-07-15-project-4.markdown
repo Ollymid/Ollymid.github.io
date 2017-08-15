@@ -1,6 +1,6 @@
 ---
-title: Treehouse
-subtitle: Website Design
+title: Bubbles Online Dive Log
+subtitle: An Angular app built on a RUby on Rails API. Allows divers to log their dives/dive sites without requiring paperwork
 layout: default
 modal-id: 4
 date: 2014-07-15

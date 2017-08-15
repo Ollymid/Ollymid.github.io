@@ -1,6 +1,6 @@
 ---
-title: Escape
-subtitle: Website Design
+title: Trips Advisor
+subtitle: A geotagging app where clumsy people can log their falls
 layout: default
 modal-id: 2
 date: 2014-07-17

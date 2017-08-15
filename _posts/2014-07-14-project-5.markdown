@@ -1,6 +1,6 @@
 ---
-title: Startup Framework
-subtitle: Website Design
+title: COMING SOON - Watch this space!
+subtitle: I solemnly swear I am up to no good ;)
 layout: default
 modal-id: 5
 date: 2014-07-14

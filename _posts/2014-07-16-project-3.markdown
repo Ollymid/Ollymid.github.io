@@ -1,6 +1,6 @@
 ---
-title: Golden
-subtitle: Website Design
+title: Wild Side
+subtitle: A MEAN stack app allowing people to locate/create nature walk in their local area
 layout: default
 modal-id: 3
 date: 2014-07-16
