@@ -4,8 +4,8 @@ subtitle: A geotagging app where clumsy people can log their falls
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
+img: project2.jpg
+thumbnail: trips-advisor-thumbnail.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

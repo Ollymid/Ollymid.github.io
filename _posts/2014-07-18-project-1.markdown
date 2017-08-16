@@ -4,8 +4,8 @@ subtitle: A Rick and Morty inspired trivia game powered by JavaScript!
 layout: default
 modal-id: 1
 date: 2017-05-26
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: project1.jpg
+thumbnail: ram-thumbnail.jpg
 alt: Rick and Morty Quiz Game
 project-date: May 2017
 category: Web Development

@@ -4,8 +4,8 @@ subtitle: A MEAN stack app allowing people to locate/create nature walk in their
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
+img: project3.jpg
+thumbnail: wild-side-thumbnail.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

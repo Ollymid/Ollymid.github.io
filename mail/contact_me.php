@@ -23,4 +23,5 @@ $headers = "From: noreply@ollymiddleton.co.uk\n"; // This is the email address t
 $headers .= "Reply-To: $email_address";
 mail($to,$email_subject,$email_body,$headers);
 return true;
+
 ?>
