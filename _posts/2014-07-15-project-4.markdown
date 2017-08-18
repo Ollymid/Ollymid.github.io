@@ -1,6 +1,6 @@
 ---
 title: Bubbles Online Dive Log
-subtitle: An Angular app built on a RUby on Rails API. Allows divers to log their dives/dive sites without requiring paperwork
+subtitle: An Angular app built on a Ruby on Rails API. Allows divers to log their dives/dive sites without requiring paperwork
 layout: default
 modal-id: 4
 date: 2014-07-15
@@ -8,8 +8,8 @@ img: project4.jpg
 thumbnail: bubbles-thumbnail.jpg
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
 category: Web Development
+technologies: JavaScript ES6, AngularJS, Ruby on Rails, HTML5, CSS3, SASS Bcrypt, JWT, AWS S3, PostgreSQL, Google Maps API
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 
 ---
