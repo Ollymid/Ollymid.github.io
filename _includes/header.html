@@ -9,7 +9,13 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <!-- <a class="navbar-brand page-scroll" href="#page-top">{{site.title}}</a> -->
+                <ul class="list-inline social-buttons">
+                    {% for network in site.social %}
+                    <li><a href="{{ network.url }}">
+                      <i class=" icons fa fa-{{ network.title }}"></i></a>
+                    </li>
+                    {% endfor %}
+                </ul>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -45,8 +51,8 @@
                 <div class="intro-lead-in">Full Stack Web Developer</div>
 
 
-                <a href="#about" class="page-scroll arrow bounce"></a>
-            
+                <a href="#about" class="page-scroll arrow1 bounce"></a>
+
             </div>
 
         </div>
