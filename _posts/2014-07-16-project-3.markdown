@@ -7,7 +7,7 @@ date: 2014-07-16
 img: project3.jpg
 thumbnail: wild-side-thumbnail.jpg
 alt: image-alt
-project-date: April 2014
+project-date: June 2017
 category: Web Development
 github: https://github.com/Ollymid/wdi-group-project
 heroku: https://wildside-walks.herokuapp.com/
