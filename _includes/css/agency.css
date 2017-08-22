@@ -314,8 +314,7 @@ section#about {
     background-image: url('{{ site.baseurl }}/img/underwater.jpg');
     background-position: center center;
     background-repeat: no-repeat;
-    width: 100vw;
-    min-height: 100vh;
+    height: 100vh;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -330,8 +329,7 @@ section#about {
       background-image: url('{{ site.baseurl }}/img/underwater2.jpg');
       background-position: center center;
       background-repeat: no-repeat;
-      width: 100vw;
-      min-height: 100vh;
+      height: 100vh;
       -webkit-background-size: cover;
       -moz-background-size: cover;
       background-size: cover;
