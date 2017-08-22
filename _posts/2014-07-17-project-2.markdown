@@ -7,9 +7,11 @@ date: 2014-07-17
 img: project2.jpg
 thumbnail: trips-advisor-thumbnail.jpg
 alt: image-alt
-project-date: April 2014
+project-date: June 2017
 category: Web Development
-technologies: JavaScript ES6, jQuery 3.21, Node.js, Express, HTML5, CSS3, SASS, Bcrypt, MongoDB, Google Maps API.
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+github: https://github.com/Ollymid/Project1
+heroku: https://intense-earth-32358.herokuapp.com/
+technologies: JavaScript ES6, jQuery 3.10, Node.js, Express, HTML5, CSS3, SASS, Bcrypt, MongoDB, Google Maps API.
+description: The premise for this app is simple - if you fall over/faceplant/do a random gravity check - you can log in to this app and record it on the map, along with a description of the event. Other clumsy people can see where the tripping hotspots are and avoid them. Users can interact on the site by leaving comments - for example, to wish a fellow user well whilst they recover in hospital.
 
 ---

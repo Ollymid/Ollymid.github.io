@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <!-- Portfolio Grid Section -->
     <section id="portfolio" class="bg-light-gray">
         <div class="container">
@@ -13,7 +14,7 @@
                     <a href="#portfolioModal{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content">
-                                <i class="fa fa-plus fa-3x"></i>
+                                <i class="fa fa-arrows-alt fa-3x"></i>
                             </div>
                         </div>
                         <img src="img/portfolio/{{ post.thumbnail }}" class="img-responsive img-centered" alt="">
@@ -25,5 +26,8 @@
                 </div>
             {% endfor %}
             </div>
+        </div>
+        <div class="row text-center">
+          <a class="down bounce page-scroll" href="#contact" data-scroll><i class="icon fa fa-chevron-down" aria-hidden="true"></i></a>
         </div>
     </section>

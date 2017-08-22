@@ -9,7 +9,9 @@ thumbnail: bubbles-thumbnail.jpg
 alt: image-alt
 project-date: April 2014
 category: Web Development
+github: https://github.com/Ollymid/Project-4-frontend
+heroku: https://bubbles-log.herokuapp.com/
 technologies: JavaScript ES6, AngularJS, Ruby on Rails, HTML5, CSS3, SASS Bcrypt, JWT, AWS S3, PostgreSQL, Google Maps API
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: The inspiration and overall aim for this project was to create an application to replace paper logbooks in the diving industry; an industry that is long overdue a tech overhaul. The purpose of this app is to allow users to log their dives digitally, and also allow users to add dive sites and share them so others can dive them too. Users can log in via facebook Oauth and also upload photos to the app illustrate their dive site and also their logged dives. 
 
 ---

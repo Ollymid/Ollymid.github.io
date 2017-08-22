@@ -15,6 +15,11 @@
                             <h2>{{ post.title }}</h2>
                             <hr class="star-primary">
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+
+                            <a href="{{ post.github }}" target="_blank" class="btn btn-primary btn-lg portfolio-btn"><i class="fa fa-github fa-fw"></i> See Code on GitHub</a>
+
+                            <a href="{{ post.heroku }}" target="_blank" class="btn btn-primary btn-lg portfolio-btn"><i class="fa fa-cloud fa-fw"></i> See App on Heroku</a>
+
                             <p>{{ post.description }}</p>
                             <ul class="list-inline item-details">
                                 <li>Technologies:
@@ -25,12 +30,8 @@
                                     <strong><a href="http://startbootstrap.com">{{ post.project-date }}</a>
                                     </strong>
                                 </li>
-                                <li>Service:
-                                    <strong><a href="http://startbootstrap.com">{{ post.category }}</a>
-                                    </strong>
-                                </li>
                             </ul>
-                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                            <button type="button" class="btn btn-danger" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
                     </div>
                 </div>

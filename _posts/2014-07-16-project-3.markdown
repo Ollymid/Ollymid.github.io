@@ -9,7 +9,9 @@ thumbnail: wild-side-thumbnail.jpg
 alt: image-alt
 project-date: April 2014
 category: Web Development
+github: https://github.com/Ollymid/wdi-group-project
+heroku: https://wildside-walks.herokuapp.com/
 technologies: JavaScript ES6, AngularJS, Node.js, Express, HTML5, CSS3, SASS Bcrypt, JWT, AWS S3, MongoDB, AJAX, Google Maps API, Mocha.
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: An app that allows users to find nature walks in their local area or create new ones. This app has full RESTful functionality and is authenticated using JWT tokens. We also pulled in forecast data from Darksky’s weather API. My role in this project was to produce custom Angular Directives using the Google Maps API to allow users to plot and edit routes. I was also responsible for user routing in the back end.  
 
 ---
