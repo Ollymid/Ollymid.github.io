@@ -531,8 +531,7 @@ section#portfolio .section-subheading {
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
-    background: rgba(52,152,219,1); /* Fallback when no plugin support */
-    background: rgba( #1c76b3 | hex_to_rgb | join: ',' }}, .9);
+    background: rgba(52,152,219,.9);
 }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover:hover {
