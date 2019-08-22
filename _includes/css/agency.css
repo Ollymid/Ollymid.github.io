@@ -68,7 +68,7 @@ h6 {
 }
 
 .bg-light-blue {
-    background-color: #e5f5fa;
+    background-color: #040f2c;
 }
 .bg-skills {
     background-color: white;
@@ -294,16 +294,11 @@ header {
   header {
     text-align: center;
     color: #fff;
-    background-attachment: fixed;
     background-image: url('{{ site.baseurl }}/img/water2.jpg');
     background-position: center center;
     background-repeat: no-repeat;
-    width: 100vw;
-    min-height: 100vh;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
+    max-width: 100vw;
     background-size: cover;
-    -o-background-size: cover;
   }
 }
 
@@ -353,8 +348,8 @@ section#about .down {
 }
 
 header .intro-text {
-    padding-top: 100px;
-    padding-bottom: 50px;
+    padding-top: 30rem;
+    padding-bottom: 20rem;
 }
 
 header .intro-text .intro-lead-in {
@@ -375,10 +370,6 @@ header .intro-text .intro-heading {
 }
 
 @media(min-width:768px) {
-    header .intro-text {
-        padding-top: 390px;
-        padding-bottom: 200px;
-    }
 
     header .intro-text .intro-lead-in {
         margin-bottom: 25px;

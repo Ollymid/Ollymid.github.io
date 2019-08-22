@@ -3,24 +3,9 @@ baseurl: ""
 
 # Site settings
 title: Olly's Portfolio
-email: ollymiddleton2@gmail.com
 description: "My name is Olly and this is my online portfolio"
 
-
-# Team names, titles and social links
-people:
-- name: Olly Middleton
-  pic: 1
-  position: Full Stack Web Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+# Social networks usernames
 social:
 
   - title: twitter
@@ -29,13 +14,6 @@ social:
     url: http://stackoverflow.com/users/7841223/ollymid
   - title: github
     url: http://github.com/Ollymid
-
-# Postal address (add as many lines as necessary)
-address:
-  - line:
-  - line:
-
-
 
 # Build settings
 markdown: kramdown
