@@ -279,7 +279,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: fixed;
-    background-image: url('{{ site.baseurl }}/img/water.jpg');
+    background-image: url(https://images.unsplash.com/photo-1538933521134-103a68b658e7);
     background-position: center center;
     background-repeat: no-repeat;
     width: 100vw;
@@ -294,7 +294,7 @@ header {
   header {
     text-align: center;
     color: #fff;
-    background-image: url('{{ site.baseurl }}/img/water2.jpg');
+    background-image: url(https://images.unsplash.com/photo-1538933521134-103a68b658e7);
     background-position: center center;
     background-repeat: no-repeat;
     max-width: 100vw;
@@ -346,7 +346,6 @@ section#about .down {
   height: 300px;
   margin-bottom: 50px;
 }
-
 header .intro-text {
     padding-top: 30rem;
     padding-bottom: 20rem;
@@ -390,9 +389,7 @@ header .intro-text .intro-heading {
 }
 
 @media(max-width:767px) {
-  header .intro-text {
-    margin-top: 160px;
-  }
+
   header .intro-lead-in {
     margin-top: 65px;
   }
