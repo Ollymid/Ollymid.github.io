@@ -1,11 +1,12 @@
-# Color settings (hex-codes without the leading hash-tag)
-color:
-  primary: 2EB2FF
-  secondary: d8f1ff
-  secondary-dark: 333
-  muted: 777
 
-# Font Families
-font:
-  primary: 'Montserrat, "Helvetica Neue",Helvetica,Arial,sans-serif'
-  secondary: '"Alpha Slab One", "Helvetica Neue", Helvetica,Arial,sans-serif'
+name: Olly Middleton
+
+job_title: Junior Fullstack Developer
+
+contact:
+  - title: twitter
+    url: http://twitter.com/Ollymid
+  - title: stack-overflow
+    url: http://stackoverflow.com/users/7841223/ollymid
+  - title: github
+    url: http://github.com/Ollymid

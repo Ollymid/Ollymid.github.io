@@ -5,15 +5,7 @@ baseurl: ""
 title: Olly's Portfolio
 description: "My name is Olly and this is my online portfolio"
 
-# Social networks usernames
-social:
 
-  - title: twitter
-    url: http://twitter.com/Ollymid
-  - title: stack-overflow
-    url: http://stackoverflow.com/users/7841223/ollymid
-  - title: github
-    url: http://github.com/Ollymid
 
 # Build settings
 markdown: kramdown
