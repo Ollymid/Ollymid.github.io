@@ -5,7 +5,7 @@
 
 version: 2
 updates:
-  - package_manager: "ruby:bundler"
+  - package-ecosystem: bundler
     directory: "/"
     schedule:
       interval: "daily"
